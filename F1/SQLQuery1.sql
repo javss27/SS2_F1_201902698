@@ -1,0 +1,4 @@
+
+CREATE DATABASE ProyectoF1;
+
+DROP DATABASE ProyectoF1;

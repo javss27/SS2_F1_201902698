@@ -1,0 +1,5 @@
+Carnet|Nombre|llevalab|Nota
+201909863|Fernando|No|100
+202020000|Pablo|No|90
+200003385||Si|85
+202012145|Andres|Si|75

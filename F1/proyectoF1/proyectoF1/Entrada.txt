@@ -1,0 +1,5 @@
+Carnet|Nombre|llevalab|Nota
+201900529|Jose|Si|100
+201906156|Fernando|Si|90
+201900677||Si|90
+201904523|Paco|Si|70
